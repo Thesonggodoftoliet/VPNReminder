@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="VPN:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/VPN_war</output-path>
+    <root id="archive" name="VPN_war.war">
+      <element id="artifact" artifact-name="VPN:war exploded" />
+    </root>
+  </artifact>
+</component>

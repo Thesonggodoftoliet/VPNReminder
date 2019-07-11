@@ -1,0 +1,14 @@
+{
+  "emails": [
+    { "address": "625240264@qq.com" },
+    { "address": "1714502998@qq.com" }
+  ],
+  "server": "149.248.38.29",
+  "method": "aes-256-cfb",
+  "timeout": 600,
+  "fast_open": false,
+  "port_password": {
+    "9517": "lyf19980125",
+    "9516": "q=w=h142536"
+  }
+}
